@@ -1,4 +1,6 @@
 # ChicagoO-Hare
+https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+
 This project uses data from the 2015 Kaggle data gathered on Commercial Air Flight Delays. 
 
 Each record represents a single flight, including the airline name, flight number, destination airport, and flight distance, 
