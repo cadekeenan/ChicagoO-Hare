@@ -10,3 +10,8 @@ Each record represents a single flight, including the airline name, flight numbe
 Frequent fliers of O’Hare can benefit from our analysis.
 
 Check our our final report PDF for a full in depth analysis!!
+
+## Contact
+Created by [@cadekeenan] <br>
+Created by [@immcsorley] <br>
+Created by [@timcookk] <br>
