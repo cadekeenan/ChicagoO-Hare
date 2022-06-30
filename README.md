@@ -21,3 +21,14 @@ Each record represents a single flight, including the airline name, flight numbe
 ### Frequent fliers of O’Hare can benefit from our analysis.
 
 ### Check our our final report PDF for a full in depth analysis!!
+
+## Screenshots
+These are some screenshots of our final report website
+
+![Screenshot 2022-05-09 150729](https://user-images.githubusercontent.com/90923213/167489322-49bb465e-2693-4fb1-a27d-4a5aa961066d.png) 
+<br/>
+![Screenshot 2022-05-09 150713](https://user-images.githubusercontent.com/90923213/167489324-85e5c7ad-91df-404f-aa6e-b23dda21407e.png)
+<br/>
+![Screenshot 2022-05-09 150654](https://user-images.githubusercontent.com/90923213/167489326-86a81caf-4de5-43b7-a667-b3edcf25849e.png)
+<br/>
+![Screenshot 2022-05-09 150754](https://user-images.githubusercontent.com/90923213/167489327-903ecdd0-a008-419e-b458-a7185cf28add.png)
